@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+}
+@media screen and (min-width:400px) {
+	body {
+		font-size:100%;
+        /* ampliamos los textos si mide más de 800px */
+    background-color: beige;
+	}
+}
+
